@@ -1,6 +1,6 @@
 # Dark-matter-production-in-the-early-universe
 
-This repository contains all the code used for the computations and plots of my master's thesis. Some `.txt` files are also included, as they provide input data required by the code.  
+This repository contains all the code used for the computations and plots of my master's thesis. The code is written inside a Jupiter Notebook using python. Some `.txt` files are also included, as they provide input data required by the code.  
 
 ## Contents
 
