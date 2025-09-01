@@ -7,7 +7,7 @@ This repository contains all the code used for the computations and plots of my 
 - **Temperature.ipynb**: Plots the entropic degrees of freedom as a function of temperature, as well as the neutrino temperature compared with the rest of the Standard Model (SM) plasma.  
 - **Freeze-In.ipynb** and **Freeze-Out.ipynb**: Compute specific examples of the Boltzmann equation and plot the results along with the equilibrium values.  
 - **Yield_electrons.ipynb** and **Yield_neutrinos.ipynb**: Compute the yield produced by electrons or neutrinos as a function of x = m/T, for different values of the dark matter (DM) mass.  
-- **Y_e(g_e).ipynb** and **Y_nu(g_nu).ipynb**: Compute the required coupling strength needed to produce the observed DM abundance for each lepton interaction, across different DM masses. Results are saved as `.txt` files. These can be visualized using **g_Nu_computation(m).ipynb** and **g_C_computation(m).ipynb**.  
+- **Y_e(g_e).ipynb** and **Y_nu(g_nu).ipynb**: Compute the required coupling strength needed to produce the observed DM abundance for each lepton interaction, across different DM masses. Results are saved as `.txt` files. These can be visualized using **g_Nu_computation(m).ipynb** and **g_C_computation(m).ipynb**. The values used for mchi need to be adjusted depending on the region of DM mass we are interested in studying.
 - **Electrons+Neutrinos.ipynb**: Computes the total yield by combining contributions from charged leptons and neutrinos.  
 
 ## Requirements
